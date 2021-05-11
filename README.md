@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakboc. Welcome to my repository!
+- 👋 Hi, I’m @burakboc.
 
 <!---
 burakboc/burakboc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
